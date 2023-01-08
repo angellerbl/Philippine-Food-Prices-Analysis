@@ -7,7 +7,7 @@ Dataset link: https://data.humdata.org/dataset/wfp-food-prices-for-philippines?f
 
 ### Prerequisites
 
-The things you need before dowloading the notebook.
+Things you need before dowloading the notebook.
 
 * Jupyter Notebook
 * Python 3.0 and above
