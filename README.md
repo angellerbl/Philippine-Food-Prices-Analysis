@@ -1,6 +1,6 @@
 # Philippine Food Prices Analysis
 
-An Exploratory Data Analysis (EDA) on Philippine Food Prices. The dataset was acquired from from the Humanitarian Data Exchange: Philippine Food Prices which was originally sourced from World Food Programme Price Database.
+An Exploratory Data Analysis (EDA) on Philippine Food Prices. The dataset was acquired from the Humanitarian Data Exchange: Philippine Food Prices which was originally sourced from World Food Programme Price Database.
 
 Dataset link: https://data.humdata.org/dataset/wfp-food-prices-for-philippines?force_layout=desktop
 
